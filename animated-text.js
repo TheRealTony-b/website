@@ -155,7 +155,7 @@ function Typer (element, options, scenes) {
 }
 
 var vader = document.getElementById('vader');
-var player = Typer(vader, ['Antoine', 'Student']);
+var player = Typer(vader, ['Fayth', 'Student']);
 
 // to specify some options, you could do:
 // var player = Typer(vader, { erase: 40, type: 60, break: 4000 }, ['Hello there!', 'How u doing?']);
