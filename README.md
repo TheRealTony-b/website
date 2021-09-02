@@ -1,3 +1,2 @@
 # website
-my first website test,
-both scripts are open sourced.
+first website/very bad
